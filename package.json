@@ -1,0 +1,27 @@
+{
+  "name": "pluralize",
+  "version": "1.0.1",
+  "description": "Module that returns the plural form of any noun.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KittPhi/pluralize.git"
+  },
+  "author": "Kitt Phi <kittphi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KittPhi/pluralize/issues"
+  },
+  "homepage": "https://github.com/KittPhi/pluralize#readme",
+  "devDependencies": {
+    "@types/pluralize": "^0.0.29",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "@types/pluralize": "^0.0.29",
+    "pluralize": "^8.0.0"
+  }
+}
